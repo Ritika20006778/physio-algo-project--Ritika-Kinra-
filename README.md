@@ -2,7 +2,7 @@
 
 # Applying Algorithms to Real-World Physiotherapy Data
 
-**Author:** [Ritika Kinra]
+**Author:** [Ritika Kinra, 241513006]
 **Course:** [Batchelor of Physiotherapy]
 **Institution:** K.R. Mangalam University
 
